@@ -1,6 +1,6 @@
-*Git* nuestro
+Git nuestro
 
-Git nuestro que estas en los repos
+*Git* nuestro que estas en los repos
 
 Comprimidos sean tus *commits*
 
@@ -12,7 +12,7 @@ Danos hoy nuestro *pull* de cada día
 
 Perdona nuestros *conflictos*
 
-Como también perdonamos los de otros geeks
+Como también perdonamos los de otros geeks<br/>
 
 No nos dejes caer en *detached HEAD*
 
